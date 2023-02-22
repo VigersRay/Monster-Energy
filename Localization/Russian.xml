@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.monster_ultra_empty>Пустой Monster Ultra</entityname.monster_ultra_empty>
+  <entitydescription.monster_ultra_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_ultra_empty>
+  <entityname.monster_ultra_paradise_empty>Пустой Monster Ultra Paradise</entityname.monster_ultra_paradise_empty>
+  <entitydescription.monster_ultra_paradise_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_ultra_paradise_empty>
+  <entityname.monster_original_green_empty>Пустой Monster Original Green</entityname.monster_original_green_empty>
+  <entitydescription.monster_original_green_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_original_green_empty>
+  <entityname.monster_pacific_punch_empty>Пустой Monster Pacific Punch</entityname.monster_pacific_punch_empty>
+  <entitydescription.monster_pacific_punch_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_pacific_punch_empty>
+  <entityname.monster_pipeline_punch_empty>Пустой Monster Juiced Pipeline Punch</entityname.monster_pipeline_punch_empty>
+  <entitydescription.monster_pipeline_punch_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_pipeline_punch_empty>
+  <entityname.monster_juiced_ripper_empty>Пустой Monster Juiced Ripper</entityname.monster_juiced_ripper_empty>
+  <entitydescription.monster_juiced_ripper_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_juiced_ripper_empty>
+  <entityname.monster_mango_juice_empty>Пустой Monster Mango Juice</entityname.monster_mango_juice_empty>
+  <entitydescription.monster_mango_juice_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_mango_juice_empty>
+  <entityname.monster_ultra_violet_empty>Пустой Monster Ultra Violet</entityname.monster_ultra_violet_empty>
+  <entitydescription.monster_ultra_violet_empty>Пустая банка с под напитка, может стоит куда-то её поставить?</entitydescription.monster_ultra_violet_empty>
+  <entityname.monster_ultra>Monster Ultra</entityname.monster_ultra>
+  <entitydescription.monster_ultra>Профиль вкуса: легкий освежающий цитрусовый. Дайте волю Ультра Чудовищу!</entitydescription.monster_ultra>
+  <entityname.monster_ultra_paradise>Monster Ultra Paradise</entityname.monster_ultra_paradise>
+  <entitydescription.monster_ultra_paradise>Профиль вкуса: киви-лайм с оттенком огурца. Дайте волю Ультра Чудовищу!</entitydescription.monster_ultra_paradise>
+  <entityname.monster_original_green>Monster Original Green</entityname.monster_original_green>
+  <entitydescription.monster_original_green>Профиль вкуса: сладкий и соленый - на вкус как монстр!. Дайте волю зверю</entitydescription.monster_original_green>
+  <entityname.monster_pacific_punch>Monster Juiced Pacific Punch</entityname.monster_pacific_punch>
+  <entitydescription.monster_pacific_punch>Профиль вкуса: классический фруктовый пунш. Дайте волю Соленому Зверю!</entitydescription.monster_pacific_punch>
+  <entityname.monster_pipeline_punch>Monster Pipeline Punch</entityname.monster_pipeline_punch>
+  <entitydescription.monster_pipeline_punch>Профиль вкуса: маракуйя, апельсин и гуава. Дайте волю зверю</entitydescription.monster_pipeline_punch>
+  <entityname.monster_juiced_ripper>Monster Juiced Ripper</entityname.monster_juiced_ripper>
+  <entitydescription.monster_juiced_ripper>Вкусовой профиль: тропические соки. Сок растекается…</entitydescription.monster_juiced_ripper>
+  <entityname.monster_mango_juice>Monster Mango Juice</entityname.monster_mango_juice>
+  <entitydescription.monster_mango_juice>Профиль вкуса: сочный манго. Безумно хороший вкус с достаточным количеством этой магии монстров, чтобы вечеринка продолжалась несколько дней…</entitydescription.monster_mango_juice>
+  <entityname.monster_ultra_violet>Monster Ultra Violet</entityname.monster_ultra_violet>
+  <entitydescription.monster_ultra_violet>Профиль вкуса: легкие цитрусовые и виноград. Дайте волю Ультра Чудовищу!</entitydescription.monster_ultra_violet>
+</infotexts>

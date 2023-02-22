@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Monster Energy" modversion="1.0.4" corepackage="False" steamworkshopid="2884814779" gameversion="0.21.6.0">
+  <Item file="%ModDir%/Items/Energy_Drinks.xml" />
+  <Text file="%ModDir%/Localization/English.xml" />
+  <Text file="%ModDir%/Localization/Russian.xml" />
+  <Other file="%ModDir%/Items/Energy_Drinks.png" />
+</contentpackage>
